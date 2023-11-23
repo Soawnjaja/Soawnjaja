@@ -2,7 +2,7 @@
 - 👀 I’m interested in how to coding right?)))
 - 🌱 I’m currently learning pure React and TypeScript
 
-- 💞️ I’m looking to collaborate on someone who can tell me how to deal with that
+- 💞️ Always for creating something useful with someone
 - 📫 How to reach me:
 skype:spawno2
 inst: amwishinskiy
