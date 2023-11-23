@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soawnjaja im start learn FrontEnd in 2020 (generally interested interested in 1999)
 - 👀 I’m interested in how to coding right?)))
-- 🌱 I’m currently learning pure Js and Vue
+- 🌱 I’m currently learning pure React and TypeScript
 
 - 💞️ I’m looking to collaborate on someone who can tell me how to deal with that
 - 📫 How to reach me:
